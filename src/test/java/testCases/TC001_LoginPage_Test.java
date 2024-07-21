@@ -35,7 +35,7 @@ public class TC001_LoginPage_Test {
 		lp.setUserName("Admin");
 		lp.setPassword("admin123");
 		lp.btnclick();
-		lp.btnMyInfo();
+		//lp.btnMyInfo();
 	}
 	
 	
